@@ -2,7 +2,7 @@
 
 **NLP Project**
 
-**Micha Briskman – 208674713, Shlomo Gulayev - 318757382**
+**Micha Briskman – , Shlomo Gulayev - **
 
 **Music-Genre-Classification-using-lyrics**
 
